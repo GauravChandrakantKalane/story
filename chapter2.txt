@@ -1,1 +1,2 @@
 This is the first line chapter2.
+This is the second line in chapter2
